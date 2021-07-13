@@ -7,4 +7,4 @@
 
 
 <img align = "left" src="screen shots/search page.png" height = 400 width = 250>
-<img align = "right"  src="screen shots/result.png" height = 400 width = 250>
+<br><img align = "left"  src="screen shots/result.png" height = 400 width = 250>
